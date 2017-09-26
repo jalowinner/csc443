@@ -18,4 +18,10 @@ fflush(fp);
  
 fclose(fp);
 
-void 
+void random_array(char *array, long bytes){
+	
+}
+
+int main(){
+
+}
